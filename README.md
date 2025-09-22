@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
       Software development and ways to increase program security.
 - 🌱 I’m currently learning:
-      Java development, C#, Python, React, & Tailwind CSS.
+      Java development, iOS development, React, & Tailwind CSS.
 - 💞️ I’m looking to collaborate on:
       All types of projects, especially ones that emphasize security.
 - 📫 How to reach me:
