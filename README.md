@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @saeedesparza.
 - 👀 I’m interested in:
-      Software development and ways to increase program security.
+      Developing software to aid the disabled.
 - 🌱 I’m currently learning:
-      Java development, iOS development, React, & Tailwind CSS.
+      Python, MediaPipe, OpenCV, and Database creation.
 - 💞️ I’m looking to collaborate on:
-      All types of projects, especially ones that emphasize security.
+      Projects that aim to solve problems faced by those with disabilities.
 - 📫 How to reach me:
       Email: saeednesp@gmail.com
       LinkedIn: https://www.linkedin.com/in/saeedesparza/
 - 😄 Pronouns:
       He/Him.
-- ⚡ Fun fact:
-      I have been creating, mixing, mastering, and engineering music for over 8 years.
