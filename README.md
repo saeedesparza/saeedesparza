@@ -1,6 +1,6 @@
 ### Hi, I'm Saeed 👋
 
-I'm a Computer Science student at the University of Washington Tacoma. I build full-stack products, AI pipelines, and backend systems.
+I'm a Computer Science student at the University of Washington. I build full-stack products, AI pipelines, and backend systems.
 
 ---
 
