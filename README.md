@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Washington. I build full-sta
 
 **Currently learning**
 
-- Deepening AWS fluency (Lambda, ECS, DynamoDB, S3)
+- RAG Pipelines
 - Distributed systems and observability
 
 ---
