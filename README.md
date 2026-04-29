@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Washington. I build full-sta
 
 **What I'm working on**
 
-- **CallLens** — AI-powered QA platform for 911 call centers (FastAPI, Docker, OpenAI, Azure, React)
+- **CallLens** — AI-powered QA platform for 911 call centers (JavaScript, Chroma, FastAPI, Docker, OpenAI, Azure, React)
 - **Activitease** — Production iOS app with 10 daily active users (Swift, Firebase, Google Places API)
 - **Horus** — AI digital wallet with Plaid bank integration (Python, React Native, Express.js)
 
